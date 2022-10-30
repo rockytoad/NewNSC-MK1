@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-C:\Users\Admin\Documents\GitHub\NewNSC-MK1
-=======
-D:\KMUTT\Unity\faster_Than_Disaster
->>>>>>> 3b3d84850c6e1aa78c6dffc1e46595f820f59a40
+C:\Users\rocky\NSC MK1\NewNSC-MK1
