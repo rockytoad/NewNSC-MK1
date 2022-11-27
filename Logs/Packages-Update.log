@@ -44,3 +44,24 @@ The following packages were updated:
   com.unity.collab-proxy from version 1.13.5 to 1.17.2
   com.unity.timeline from version 1.6.2 to 1.6.4
   com.unity.visualscripting from version 1.7.6 to 1.7.8
+
+=== Sun Nov 27 22:02:27 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.cinemachine@2.9.1
+  com.unity.render-pipelines.high-definition@12.1.7
+  com.unity.terrain-tools@4.0.3
+  com.unity.modules.nvidia@1.0.0
+The following packages were updated:
+  com.unity.test-framework from version 1.1.31 to 1.1.33
+
+=== Sun Nov 27 22:49:09 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@2.3.0
